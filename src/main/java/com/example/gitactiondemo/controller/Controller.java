@@ -1,4 +1,4 @@
-package com.example.gitactiondemo;
+package com.example.gitactiondemo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

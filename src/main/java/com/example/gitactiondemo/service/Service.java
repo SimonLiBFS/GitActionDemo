@@ -1,4 +1,4 @@
-package com.example.gitactiondemo;
+package com.example.gitactiondemo.service;
 
 @org.springframework.stereotype.Service
 public class Service {
