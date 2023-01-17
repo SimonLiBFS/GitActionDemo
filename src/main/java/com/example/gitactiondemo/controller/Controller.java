@@ -10,8 +10,8 @@ public class Controller {
     public String getMessage(){
         return "Hello from git";
     }
-    
-        @GetMapping("anotherGit")
+
+    @GetMapping("anotherGit")
     public String getAnotherMessage(){
         return "Hello from another git";
     }
@@ -21,8 +21,4 @@ public class Controller {
         return "Hello from another git2";
     }
 
-    @GetMapping("anotherGit3")
-    public String getAnotherMessage3(){
-        return "Hello from another git3";
-    }
 }
